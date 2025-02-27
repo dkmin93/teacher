@@ -1,0 +1,14 @@
+package day08.encap.good;
+
+public class MyDate {
+
+	private int year;
+	private int month;
+	private int day;
+	private String ssn;
+	
+	/*
+	 * 은닉(가려진) 변수에 접근할 때, 미리 생성해 놓은 getter/setter를 사용합니다.
+	 */
+	
+}

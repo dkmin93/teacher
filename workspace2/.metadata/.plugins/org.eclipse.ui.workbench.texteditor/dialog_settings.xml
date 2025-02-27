@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="true"/>
+		<list key="findhistory">
+			<item value="문의하기"/>
+			<item value="email"/>
+			<item value="sysYn"/>
+			<item value="s"/>
+			<item value="로그인"/>
+			<item value="회원가입"/>
+			<item value="select_email"/>
+			<item value="직접"/>
+			<item value="w100p"/>
+			<item value="서울시 종로구 인사동 111-35 오리엔트파빌리온 1024호"/>
+		</list>
+		<list key="replacehistory">
+			<item value="snsYn"/>
+		</list>
+	</section>
+</section>

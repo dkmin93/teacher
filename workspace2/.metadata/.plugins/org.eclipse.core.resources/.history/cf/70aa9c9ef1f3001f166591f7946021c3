@@ -1,0 +1,16 @@
+package com.myweb.util.mybatis;
+
+import org.apache.ibatis.session.SqlSessionFactory;
+
+public class MybaitsUtil {
+
+	//세션팩토리의 생성과, 설정파일의 위치를 지정
+	private static SqlSessionFactory sqlSessionFactory;
+	
+	//클래스가 실행될 당시에 단한번만 동작됨
+	static {
+		
+	}
+	
+	
+}

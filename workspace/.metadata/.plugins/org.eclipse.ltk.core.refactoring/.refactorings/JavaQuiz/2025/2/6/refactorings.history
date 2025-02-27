@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JavaQuiz/src/quiz21/2025_01_24_data.csv&apos; to &apos;2025_02_03_data.csv&apos;" description="Rename resource &apos;2025_01_24_data.csv&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/quiz21/2025_01_24_data.csv" name="2025_02_03_data.csv" stamp="1738541338956" updateReferences="true"/>
+</session>

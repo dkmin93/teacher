@@ -1,0 +1,24 @@
+package day08.encap.good;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		
+		MyDate me = new MyDate();
+		//me.setYear(2026);
+		me.setYear(2025);
+		
+		int year = me.getYear();
+		System.out.println("년도:" + year);
+		
+		
+		me.setMonth(1);
+		me.setDay(14);
+		
+		
+		
+		
+		
+		
+	}
+}

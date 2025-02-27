@@ -1,0 +1,12 @@
+package quiz01;
+
+public class Quiz22 {
+
+	public static void main(String[] args) {
+		
+		int[] arr = {10, 20, 30, 40, 50};
+		int data = 100; //추가할 데이터 
+		
+		
+	}
+}

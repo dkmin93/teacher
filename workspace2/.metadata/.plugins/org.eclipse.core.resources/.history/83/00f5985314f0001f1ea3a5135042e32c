@@ -1,0 +1,11 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%
+	
+	String bno = request.getParameter("bno");
+
+	//bno기반으로 데이터베이스에서 값을 조회한다.
+
+
+
+%>

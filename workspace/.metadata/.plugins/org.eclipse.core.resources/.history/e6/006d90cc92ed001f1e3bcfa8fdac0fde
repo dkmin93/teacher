@@ -1,0 +1,38 @@
+package jdbc.basic;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.util.Scanner;
+
+public class JdbcInsert {
+
+	public static void main(String[] args) {
+		
+		//이름, 주소를 입력
+		Scanner scan = new Scanner(System.in);
+		System.out.print("이름>");
+		String name = scan.nextLine();
+		System.out.print("주소>");
+		String address =scan.nextLine();
+		
+		
+		Connection conn = null; //연결객체
+		PreparedStatement pstmt = null; //sql을 실행하기 위한 객체
+		
+		
+		try {
+			//자바 sql패키지는 SQLException예외를 던지고 있어서, try~catch문 안에서 실행함
+			
+			
+			conn = DriverManager.getConnection( 디비주소, 유저명, 비밀번호);
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+		
+		
+		
+	}
+}

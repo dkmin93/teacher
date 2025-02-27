@@ -1,0 +1,11 @@
+package day08.encap.good;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		
+		MyDate me = new MyDate();
+		me.setYear(2026);
+		
+	}
+}

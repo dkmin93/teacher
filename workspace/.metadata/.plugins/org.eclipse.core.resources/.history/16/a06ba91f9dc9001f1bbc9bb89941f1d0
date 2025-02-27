@@ -1,0 +1,13 @@
+package quiz01;
+
+public class Quiz13 {
+
+	public static void main(String[] args) {
+		
+		//1. 7~100사이의 정수들 중에서 7의 배수를 *가로 로 출력
+		
+		
+		//줄바꿈
+		
+	}
+}

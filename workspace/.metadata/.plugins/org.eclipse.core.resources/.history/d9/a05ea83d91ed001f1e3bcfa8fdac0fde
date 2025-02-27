@@ -1,0 +1,8 @@
+package jdbc.basic;
+
+public class JdbcInsert {
+
+	public static void main(String[] args) {
+		
+	}
+}

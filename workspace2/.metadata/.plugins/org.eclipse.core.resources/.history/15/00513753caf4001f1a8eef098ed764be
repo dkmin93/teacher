@@ -1,0 +1,7 @@
+package com.myweb.util.filter;
+
+import javax.servlet.Filter;
+
+public class ChainFilter2 implements Filter {
+
+}

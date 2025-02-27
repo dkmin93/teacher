@@ -1,0 +1,16 @@
+package com.myweb.board.model;
+
+import java.sql.Timestamp;
+
+public class BoardDTO {
+
+	private int bno;
+	private String email;
+	private String title;
+	private String content;
+	private String regdate;
+	
+	public BoardDTO() {
+	}
+
+}

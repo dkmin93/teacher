@@ -1,0 +1,39 @@
+package com.myweb.users.model;
+
+import java.sql.Timestamp;
+
+public class UsersDTO {
+	
+	private String email;
+	private String name;
+	private String pw;
+	private String phone;
+	private String gender;
+	private String snsYn;
+	private Timestamp regdate;
+	
+	//생성자
+	public UsersDTO() {
+	}
+	//생성자
+	public UsersDTO(String email, String name, String pw, String phone, String gender, String snsYn,
+			Timestamp regdate) {
+		super();
+		this.email = email;
+		this.name = name;
+		this.pw = pw;
+		this.phone = phone;
+		this.gender = gender;
+		this.snsYn = snsYn;
+		this.regdate = regdate;
+	}
+	
+	//getter, setter
+
+	
+	
+	
+	
+	
+	
+}
