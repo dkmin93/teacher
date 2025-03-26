@@ -1,7 +1,0 @@
-package com.myweb.util.mybatis;
-
-public class MybaitsUtil {
-
-	//세션팩토리의 생성과, 설정파일의 위치를 지정
-	
-}

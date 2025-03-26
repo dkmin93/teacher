@@ -1,5 +1,0 @@
-package com.myweb.util.filter;
-
-public class BoardAuthenticationFilter implements Filter {
-
-}

@@ -1,8 +1,0 @@
-package com.myweb.util.filter;
-
-import javax.servlet.Filter;
-
-
-public class BoardAuthenticationFilter implements Filter {
-
-}

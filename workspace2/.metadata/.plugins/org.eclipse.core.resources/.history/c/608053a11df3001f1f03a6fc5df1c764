@@ -1,8 +1,0 @@
-package com.myweb.users.service;
-
-import javax.servlet.http.HttpServletRequest;
-
-public interface UsersService {
-	
-	void join(HttpServletRequest request);
-}
